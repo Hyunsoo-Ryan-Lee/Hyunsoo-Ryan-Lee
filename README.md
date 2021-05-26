@@ -1,5 +1,8 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Python
 
+![Hyunsoo-Ryan-Lee's github stats](https://github-readme-stats.vercel.app/api?username=Hyunsoo-Ryan-Lee&show_icons=true)
+![Hyunsoo-Ryan-Lee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsoo-Ryan-Lee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 <!--
 **Hyunsoo-Ryan-Lee/Hyunsoo-Ryan-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

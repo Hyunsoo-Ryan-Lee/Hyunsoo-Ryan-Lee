@@ -1,8 +1,11 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Python
-- 📷 Also taking and collecting film cameras
+- 🌱 I’m currently learning Python 🐍
+- 📷 Also taking pictures using film cameras 🎞️
 
-![210525000311250010](https://user-images.githubusercontent.com/83285291/119671736-f755a100-be74-11eb-91e2-bd4b9dcda69c.jpg){: width="50px" height="50px"}
+<img src = https://user-images.githubusercontent.com/83285291/119671736-f755a100-be74-11eb-91e2-bd4b9dcda69c.jpg width="40%" height="40%"> <img src = https://user-images.githubusercontent.com/83285291/119674169-ee65cf00-be76-11eb-9fe8-7f294c069664.jpg width="40%" height="40%">
+<img src = https://user-images.githubusercontent.com/83285291/119677481-bad87400-be79-11eb-9588-4070b0cf3f22.jpg width="40%" height="40%"> <img src = https://user-images.githubusercontent.com/83285291/119677465-b744ed00-be79-11eb-8668-6e0eaaf3c485.jpg width="40%" height="40%">
+
+
 
 
 ![Hyunsoo-Ryan-Lee's github stats](https://github-readme-stats.vercel.app/api?username=Hyunsoo-Ryan-Lee&show_icons=true)

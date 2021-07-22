@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning various coding techniques broadly <br>
--<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
+- 🌱 I’m currently learning various coding techniques broadly and kinda slightly<br><hr><br>
+ <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
@@ -11,7 +11,7 @@
  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Filebeat-005571?style=flat-square&logo=&logoColor=white"/></a> &nbsp;these days!</p>
+ <img src="https://img.shields.io/badge/Filebeat-005571?style=flat-square&logo=&logoColor=white"/></a>
 
 - 📷 Also taking pictures using film cameras 🎞️
 

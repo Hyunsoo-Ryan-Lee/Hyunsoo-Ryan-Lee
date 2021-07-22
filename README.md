@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Python 🐍
+- 🌱 I’m currently learning various coding techniques broadly <br>
  I'm learning <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>
  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>

@@ -1,4 +1,4 @@
-### Hi there 👋
+
 - 🌱 I’m currently learning various coding techniques broadly and kinda slightly 😄<br><br>
  <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>

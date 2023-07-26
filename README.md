@@ -5,11 +5,25 @@
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Amazon_AWS-ff9900?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Docker-2ca5e0?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>&nbsp
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=flat-square&logo=apachespark&logoColor=#E35A16"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=FASTAPI&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Tensorflow-61DAFB?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp
 </p>
+<br/>
 
+<h3 align="center">📜 Certificates 📜</h3>
+<p align="center">
+  <img src="https://github.com/Hyunsoo-Ryan-Lee/Hyunsoo-Ryan-Lee/assets/83285291/a6a8077c-f332-4e58-85b3-0ad6fc5910e2" width="10%" height="10%"></a>&nbsp
+</p>
 <br/>
 
 <h3 align="center">👋 Follow Me 👋</h3>
@@ -25,38 +39,11 @@
 <div align="center">
 
 ![Hyunsoo-Ryan-Lee's github stats](https://github-readme-stats.vercel.app/api?username=Hyunsoo-Ryan-Lee&theme=gruvbox&show_icons=true)
-![Hyunsoo-Ryan-Lee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsoo-Ryan-Lee&show_icons=true&hide_border=true&theme=gruvbox)
+<!--![Hyunsoo-Ryan-Lee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsoo-Ryan-Lee&show_icons=true&hide_border=true&theme=gruvbox)-->
 </div>
-
 <br/>
 
-- 🌱 I’m currently learning various coding techniques broadly and kinda slightly 😄<br><br> 
- <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> </a>
- <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/BeatifulSoup-59666C?style=flat-square&logo=&logoColor=white"/></a><br>
- <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/MySQL DB-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/></a>
- <img src="https://img.shields.io/badge/Filebeat-005571?style=flat-square&logo=&logoColor=white"/></a>
+
+
  <hr>
 
-
-<!--
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

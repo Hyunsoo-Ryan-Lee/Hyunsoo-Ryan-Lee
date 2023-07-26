@@ -1,3 +1,34 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=200&section=header&text=Hyunsoo-Ryan-Lee&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
+
+<h3 align="center">Hi! I'm Hyunsoo Lee 👋</h3>
+<br/>
+
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Tensorflow-61DAFB?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp
+</p>
+
+<br/>
+
+<h3 align="center">👋 Follow Me 👋</h3>
+<p align="center">
+  <a href="mailto:hyunsooyein@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=daekyeongp96@gmail.com"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/hyunsoo-ryan-lee-824a7917a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/hyunsoo-ryan-lee-824a7917a/"/></a>&nbsp
+  <a href="https://hyunsoo-ryan-lee.github.io/" target="_blank"><img src="https://img.shields.io/badge/TechBlog-04B431?style=flat-square&logo=BookStack&logoColor=white&link=https://hyunsoo-ryan-lee.github.io/"/></a>&nbsp
+</p>
+
+<br/>
+
+<h3 align="center">👨‍💻 My Github Stats 👨‍💻</h3>
+<div align="center">
+
+![Hyunsoo-Ryan-Lee's github stats](https://github-readme-stats.vercel.app/api?username=Hyunsoo-Ryan-Lee&theme=gruvbox&show_icons=true)
+![Hyunsoo-Ryan-Lee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsoo-Ryan-Lee&show_icons=true&hide_border=true&theme=gruvbox)
+</div>
+
+<br/>
 
 - 🌱 I’m currently learning various coding techniques broadly and kinda slightly 😄<br><br> 
  <img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
@@ -14,18 +45,9 @@
  <img src="https://img.shields.io/badge/Filebeat-005571?style=flat-square&logo=&logoColor=white"/></a>
  <hr>
 
-- 📷 Also taking pictures using film cameras 🎞️
 
-<img src = https://user-images.githubusercontent.com/83285291/119671736-f755a100-be74-11eb-91e2-bd4b9dcda69c.jpg width="40%" height="40%"> <img src = https://user-images.githubusercontent.com/83285291/119674169-ee65cf00-be76-11eb-9fe8-7f294c069664.jpg width="40%" height="40%">
-<img src = https://user-images.githubusercontent.com/83285291/119677481-bad87400-be79-11eb-9588-4070b0cf3f22.jpg width="40%" height="40%"> <img src = https://user-images.githubusercontent.com/83285291/119677465-b744ed00-be79-11eb-8668-6e0eaaf3c485.jpg width="40%" height="40%">
-
-
-
-
-![Hyunsoo-Ryan-Lee's github stats](https://github-readme-stats.vercel.app/api?username=Hyunsoo-Ryan-Lee&theme=gruvbox&show_icons=true)
-![Hyunsoo-Ryan-Lee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunsoo-Ryan-Lee&show_icons=true&hide_border=true&theme=gruvbox)
 <!--
-**Hyunsoo-Ryan-Lee/Hyunsoo-Ryan-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 

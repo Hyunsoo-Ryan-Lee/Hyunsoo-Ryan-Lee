@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=ApacheAirflow&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=FASTAPI&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Tensorflow-61DAFB?style=flat-square&logo=Tensorflow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp
 </p>
 <br/>
 

@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=200&section=header&text=Hyunsoo-Ryan-Lee&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
 <h1 align="center">Hi! I'm Hyunsoo Lee 👋</h1>
-<h4 align="left">🔸 Data Engineer & AWS Service Manager</h4>
+<h4 align="left">🔸 Python Developer & Data Engineer & AWS Service Manager</h4>
 <h4 align="left">🔸 Studying hard to become a AWS Cloud Expert</h4>
 <h4 align="left">🔸 DevOPS Enthusiast such as Docker, Kubernetes, Jenkins, Ansible</h4>
 <br/>

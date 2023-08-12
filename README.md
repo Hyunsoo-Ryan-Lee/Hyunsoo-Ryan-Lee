@@ -27,6 +27,8 @@
 <h3 align="center">📜 Certificates 📜</h3>
 <p align="center">
   <img src="https://github.com/Hyunsoo-Ryan-Lee/Hyunsoo-Ryan-Lee/assets/83285291/a6a8077c-f332-4e58-85b3-0ad6fc5910e2" width="15%" height="15%"></a>&nbsp
+  <img src="https://github.com/Hyunsoo-Ryan-Lee/python-flet-project/assets/83285291/721f4671-2638-42cb-9ca9-7b7dd2921592" width="15%" height="15%"></a>&nbsp
+
 </p>
 <br/>
 

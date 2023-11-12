@@ -28,8 +28,8 @@
 <p align="center">
   <img src="https://github.com/Hyunsoo-Ryan-Lee/Hyunsoo-Ryan-Lee/assets/83285291/a6a8077c-f332-4e58-85b3-0ad6fc5910e2" width="15%" height="15%"></a>&nbsp
   <img src="https://github.com/Hyunsoo-Ryan-Lee/python-flet-project/assets/83285291/721f4671-2638-42cb-9ca9-7b7dd2921592" width="15%" height="15%"></a>&nbsp
+  <img src="https://github.com/Hyunsoo-Ryan-Lee/emr-on-eks/assets/83285291/f88d7d4b-b6a7-4886-9dbf-36339023dd9d" width="15%" height="15%"></a>&nbsp
   <img src="https://github.com/Hyunsoo-Ryan-Lee/AWS-Training/assets/83285291/bbef7798-8672-4e1a-aa1f-187facc80374" width="11%" height="10%"></a>&nbsp
-  <img src="https://github.com/Hyunsoo-Ryan-Lee/AWS-Training/assets/83285291/a0aff6b2-aef1-45b4-9443-4b01bf8ca902" width="15%" height="15%"></a>&nbsp
 
 
 
